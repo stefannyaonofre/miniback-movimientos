@@ -1,0 +1,22 @@
+{
+    "movimientos": [
+        {
+            "id": 1,
+            "decription": "Compra del mercado semanal",
+            "price": 200000,
+            "type": "gasto"
+        },
+        {
+            "id": 2,
+            "decription": "Pago de honorarios",
+            "price": 1000000,
+            "type": "ingreso"   
+        },
+        {
+            "id": 3,
+            "decription": "Pago de alquiler",
+            "price": 700000,
+            "type": "gasto"
+        }
+    ]
+}
